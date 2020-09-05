@@ -1,7 +1,5 @@
 ### Hi, I'm Ramon Costa! 👋
 
-
-
 🌱 I’m currently learning C++ and Flutter 
  
 :mag_right: How to reach me: 
