@@ -4,8 +4,8 @@
  
 :mag_right: How to reach me: 
 
-   -    :camera: <a href="https://instagram.com/gaspor3" rel="nofollow">Instagram</a>
+   -    [:camera: Instagram](https://instagram.com/gaspor3)
   
-   -    :bird: <a href="https://twitter.com/AnotherGaspor" rel="nofollow">Twitter</a>
+   -    [:bird: Twitter](https://twitter.com/AnotherGaspor)
   
 🇧🇷 Born in Ubá, Brazil
