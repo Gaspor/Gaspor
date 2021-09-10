@@ -1,15 +1,6 @@
 # Hi, I'm Ramon Costa!
 
 <div>
-  
-- 🌱 I’m currently learning Javascript, CSS and HTML.
-  
-- 🇧🇷 Born in Minas Gerais, Brazil.
-</div>
-
-##
-
-<div>
   <a href="https://github.com/Gaspor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaspor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaspor&layout=compact&langs_count=7&theme=dracula"/>
